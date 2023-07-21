@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5aae9e04-ced0-40f2-b9b7-9b963da7150c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/VN2 Solutions.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_task" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_02_Variables/0. write operation.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_02_Variables/1. read operation.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_02_Variables/2.Variables2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_02_Variables/2.variables.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_02_Variables/Ref_count.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_02_Variables/_00_Tasks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_02_Variables/_0_Attributes/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_02_Variables/_0_Attributes/load_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_02_Variables/_0_Attributes/variables" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_02_Variables/_0_Attributes/variables.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_02_Variables/_1_Variables.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_02_Variables/_2_Variables.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_02_Variables/_3_boolean.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_02_Variables/_4_vars.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_02_Variables/_5_vars.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_02_Variables/_6_Reassing_val.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_02_Variables/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_02_Variables/class_notes/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_02_Variables/class_practice/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_02_Variables/mem_allc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_02_Variables/memory_gc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_02_Variables/mypractice/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_02_Variables/mypractice/test1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_02_Variables/mypractice/test2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_02_Variables/var4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_02_Variables/var4_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_02_Variables/variables" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_02_Variables/variables.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_02_Variables/varialbes3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_04_Operators/_1_Arithmetic/_0_Sample.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_04_Operators/_1_Arithmetic/_0_attributes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_04_Operators/_1_Arithmetic/_1_Addition.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_04_Operators/_1_Arithmetic/_1_Addition_self.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_04_Operators/_1_Arithmetic/_2_Substraction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_04_Operators/_1_Arithmetic/_3_Mulitplication.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_04_Operators/_1_Arithmetic/_4_Division.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_04_Operators/_1_Arithmetic/_5_Modulus.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_04_Operators/_1_Arithmetic/_6_FloorDivision.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_04_Operators/_1_Arithmetic/_7_Exponential.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_04_Operators/_1_Arithmetic/self.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_04_Operators/_2_ComparaionORRelational/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_04_Operators/_2_ComparaionORRelational/equals.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_04_Operators/_2_ComparaionORRelational/greaterthan.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_04_Operators/_2_ComparaionORRelational/greaterthanorequals.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_04_Operators/_2_ComparaionORRelational/lessthan.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_04_Operators/_2_ComparaionORRelational/lessthanorequals.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_04_Operators/_2_ComparaionORRelational/notequals.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_04_Operators/_3_Assignment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_04_Operators/_4_Logical.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_04_Operators/_5_Bitwise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_04_Operators/_6_Membership.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_04_Operators/_7_Indenitity.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_04_Operators/_8_MISC/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_04_Operators/_8_MISC/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_05_Datatypes_Intro/_0_CRUD.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_05_Datatypes_Intro/_1_numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_05_Datatypes_Intro/_2_BOOL.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_05_Datatypes_Intro/_3_Data_Structures.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_05_Datatypes_Intro/_4_realtime_example.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_05_Datatypes_Intro/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_05_Datatypes_Intro/self_practice/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_06_Keywords/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_07_DecisionMaking/_1_if/_0_if2_.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_07_DecisionMaking/_1_if/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_07_DecisionMaking/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_07_DecisionMaking/__practice__/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_08_Loops/Loops_task.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_08_Loops/q1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_08_Loops/q10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_08_Loops/q12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_08_Loops/q14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_08_Loops/q2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_08_Loops/q20.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_08_Loops/q21.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_08_Loops/q22.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_0_maths_basics/_10_Matrices.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_0_maths_basics/_1_Number_System.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_0_maths_basics/_2_Arithemtics.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_0_maths_basics/_3_Binary_Number_System.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_0_maths_basics/_4_logial_gates.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_0_maths_basics/_5_Sets.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_0_maths_basics/_6_Sequence,Series.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_0_maths_basics/_7_Algebra.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_0_maths_basics/_8_Functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_0_maths_basics/_9_Plane Geometry.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_0_maths_basics/__init__.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/_07_DecisionMaking/__init__.py" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectId" id="2SY4fAMZdsNDrqSu0nauLpghvdf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master"
+  }
+}]]></component>
+  <component name="RunManager" selected="Python.q1">
+    <configuration name="Loops_task" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="VN2 Solutions" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/_08_Loops" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/_08_Loops/Loops_task.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="q1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="VN2 Solutions" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/_08_Loops" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/_08_Loops/q1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="q14" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="VN2 Solutions" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/_08_Loops" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/_08_Loops/q14.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.q1" />
+        <item itemvalue="Python.q14" />
+        <item itemvalue="Python.Loops_task" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5aae9e04-ced0-40f2-b9b7-9b963da7150c" name="Changes" comment="" />
+      <created>1689310283593</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1689310283593</updated>
+    </task>
+    <servers />
+  </component>
+</project>
